@@ -1,0 +1,1 @@
+Color picker made with react where user specifies an rgb value and we generate different shades and hues which are then displayed on the screen. We use useState, onClick events, to control the input values and the color state, toast to show error and success messages, and navigator.clipboard api to allow user to copy a selected rgb value to their clipboard.
